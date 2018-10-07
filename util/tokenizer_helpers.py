@@ -1,5 +1,5 @@
 # Keras Tokenizer Serialization
-# Written by Gautam Mittal
+# Written by Pranav Eranki
 
 import pickle, json
 

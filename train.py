@@ -1,5 +1,5 @@
 # Fake News Classification with Deep Learning
-# Written by Gautam Mittal
+# Written by Pranav Eranki
 
 import numpy as np
 import pandas as pd

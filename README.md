@@ -28,7 +28,7 @@ To generate a ```submission.csv``` prediction file based on the [Kaggle](https:/
 python evaluate.py
 ```
 
-An in-browser TensorFlow.js version of the model is available [here](https://gmittal.github.io/fake-news/demo).
+An in-browser TensorFlow.js version of the model is available [here](https://github.com/PranavEranki/Fake-News-Classifier/demo).
 
 ### Model
 Below is the network architecture used for classification. It was trained on [data from the UTK Machine Learning Club](https://www.kaggle.com/c/fake-news/data) available on Kaggle. **Achieves approximately 99% test accuracy** on both validation data and the [public Kaggle leaderboard](save/leaderboard.png) test data.
